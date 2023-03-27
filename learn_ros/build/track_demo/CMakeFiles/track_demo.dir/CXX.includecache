@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qsl/learn_ros/src/track_demo/src/lib/KeyboardEvent.cpp
+KeyboardEvent.h
+/home/qsl/learn_ros/src/track_demo/src/lib/KeyboardEvent.h
+

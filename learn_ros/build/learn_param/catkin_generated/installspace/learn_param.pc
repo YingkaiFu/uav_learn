@@ -1,0 +1,8 @@
+prefix=/home/qsl/learn_ros/install
+
+Name: learn_param
+Description: Description of learn_param
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

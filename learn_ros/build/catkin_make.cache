@@ -1,0 +1,2 @@
+helloworld:learn_param:mavros_offboard:offboard:track_demo
+-DCATKIN_DEVEL_PREFIX=/home/qsl/learn_ros/devel -DCMAKE_INSTALL_PREFIX=/home/qsl/learn_ros/install -G Unix Makefiles
